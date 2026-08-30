@@ -1,7 +1,7 @@
 {
   "name": "bot-pengaduan-whatsapp",
   "version": "1.1.0",
-  "description": "Bot WhatsApp layanan pengaduan dengan menu interaktif Baileys",
+  "description": "Bot WhatsApp layanan pengaduan dengan menu interaktif Baileys dan latest",
   "main": "index.js",
   "scripts": {
     "start": "node index.js"
